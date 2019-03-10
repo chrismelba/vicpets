@@ -9,3 +9,6 @@ https://www.kaggle.com/puppygogo/sa-dog-ownership-sample/version/4?login=true&lo
 https://www.kaggle.com/ruizjme/realestate-vic-sold
 
 The libraries used were the typical pandas, numpy and matplotlib.pyplot. I also used the string library to clean up the text and seaborn for my visualizations
+
+A post on my findings can be found here:
+https://medium.com/@chriscarter_95766/the-truth-about-cats-and-dogs-in-victoria-446a5cfd453f
